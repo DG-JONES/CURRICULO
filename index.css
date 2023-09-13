@@ -1,0 +1,40 @@
+
+
+body{
+    padding-right: 20%;
+    padding-left: 20%;
+    background-color: black;
+
+}
+h1{color: aliceblue;
+font-size: 60px;
+}
+h2{
+    color: green;
+}
+
+
+p{border-width: medium;
+border-style: solid;
+border-color: aliceblue;
+background-color: aliceblue;
+}
+
+img{
+    width: 130px;
+ height: auto;
+ border-bottom: 30%;
+}
+img.div1{
+
+    width:150px;
+    border-bottom:30%;
+    height: auto;
+    
+}
+.img1{
+
+   width: 100px;
+   border-bottom: 5%;
+   height: auto; 
+}
